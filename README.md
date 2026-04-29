@@ -13,8 +13,7 @@ The target audience for the HTI are both meteorologists and the general public. 
 - Jonathan Murray
 
 ## How to Run
-1. Download data by running `download_data.py`
-2. Generate plots by running `threat_index.py`
+Download `hail_threat_index.py` to find instructions to run the script. 
 
 ## License
 MIT
