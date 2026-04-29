@@ -1,7 +1,11 @@
 # Meteo 473 Threat Index — Group 1
 
 ## Project Description
-The "Hail Threat Index" is designed to determine the probability of a hail at a specific location. The index was created by utilizing HRRR model data to extract multiple variables that are proven to have a correlation with hail probability. These variables include vertical velocity, convective available potential energy (CAPE), reflectivity, and vertically integrated liquid (VIL) density. After comparing the variables to recorded hail reports from March 10, 2026, we designed a formula for a hail probability index based on the prescence of these variables. Using this formula, we can generate hail probability risks given model data for any location and any event. 
+Hail Threat Index (HTI): Project Description
+This project is entitled the "Hail Threat Index." Specifically, the threat is designed to determine the probability that a specific location will see hail. We did this by first analyzing HRRR model data from the severe weather outbreak that occurred on March 10th, 2026. This outbreak produced particularly large hail across the upper Midwest. Using the HRRR data, we extracted multiple variables that are scientifically and experimentally proven to have varying levels of a strong correlation with hail probability. We then curated individual indices for the four variables (Vertically Integrated Liquid (VIL) Density, Vertical Velocity, Reflectivity, CAPE) based on the correlation of various values with hail probability. Then, we generated a mathematical equation that weights each of the four variables, producing a HTI ranging from 0-100, with 100 indicating the highest likelihood of hail. 
+
+HTI: Audience and Purpose
+The target audience for the HTI are both meteorologists and the general public. Meteorologists can use this index program in order to better identify where hail is and isn't likely depending on location. The target audience then will become the general public, as meteorologists will be able to more efficiently and reliably forecast and relay information about hail risks. This is the purpose/value of the HTI - it allows meteorologists to better understand the where, when, and why behind hail formation in order to do the best job possible keeping the general public safe from hail events than can at times be destructive or deadly.
 
 ## Group Members
 - Manuel Amdur
