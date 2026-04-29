@@ -1,7 +1,7 @@
 # Meteo 473 Threat Index — Group 1
 
 ## Project Description
-Hail Threat Index (HTI): Project Description <br>
+<b>Hail Threat Index (HTI): Project Description</b> <br>
 This project is entitled the "Hail Threat Index." Specifically, the threat is designed to determine the probability that a specific location will see hail. We did this by first analyzing HRRR model data from the severe weather outbreak that occurred on March 10th, 2026. This outbreak produced particularly large hail across the upper Midwest. Using the HRRR data, we extracted multiple variables that are scientifically and experimentally proven to have varying levels of a strong correlation with hail probability. We then curated individual indices for the four variables (Vertically Integrated Liquid (VIL) Density, Vertical Velocity, Reflectivity, CAPE) based on the correlation of various values with hail probability. Then, we generated a mathematical equation that weights each of the four variables, producing a HTI ranging from 0-100, with 100 indicating the highest likelihood of hail. 
 
 Hail Threat Index (HTI): Audience and Purpose <br>
